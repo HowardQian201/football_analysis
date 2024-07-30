@@ -1,0 +1,2 @@
+Goalkeepers not constantly assigned to team 0 and black color - stablize using mode of the team assignment
+Try stablizing each player's team - stablize using mode of the team assignment
